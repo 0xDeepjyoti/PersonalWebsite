@@ -1,7 +1,17 @@
 * {
-    margin: 0;
+    margin: 2;
+    background-color: #eaf6f6;
 }
 
 .subheading {
-    font-size: 25px;
+    font-size: 20px;
+}
+
+hr {
+    background-color: white;
+    BORDER-color: GREY;
+    border-style: dotted NONE NONE;
+    border-width: 5px;
+
+    width: 5%;
 }
